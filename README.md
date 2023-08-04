@@ -1,5 +1,5 @@
 # blog website django
 
-#----admin page----
+# ----admin page----
 ## username --> admin
 ## password --> karimi
